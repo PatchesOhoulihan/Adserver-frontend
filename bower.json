@@ -1,0 +1,29 @@
+{
+  "name": "Notes",
+  "description": "Notes for spezific topics",
+  "main": "index.html",
+  "authors": [
+    "Schmalte"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Webdev",
+    "and",
+    "all",
+    "stuff",
+    "im",
+    "interested",
+    "in."
+  ],
+  "homepage": "not now",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
